@@ -1,3 +1,3 @@
-# IP Address Tracker Search - A Frontend Mentor Challenge
+# Bookmark landing page - A Frontend Mentor Challenge
 
-Front-end project from Frontend Mentor [IP Address Tracker Search](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+Front-end project from Frontend Mentor [Bookmark landing page](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
